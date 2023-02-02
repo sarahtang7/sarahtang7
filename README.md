@@ -17,6 +17,13 @@ More recently, I have been exploring tech in the fashion industry, and I'm excit
 [gmail]: mailto:sarah.tang@columbia.edu
 [wordpress]: https://brainsproutblog.wordpress.com/
 
+<br />
+<br />
+
+#### Languages & Tools
+<img align="left" alt="java" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png">
+<img align="left" alt="python" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png">
+<img align="left" alt="c" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/760px-C_Programming_Language.svg.png?20201031132917">
 
 <!--
 **sarahtang7/sarahtang7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
