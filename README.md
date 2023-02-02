@@ -1,10 +1,22 @@
-### Nice to meet you! I'm Sarah :)
+### Nice to meet you! I'm Sarah :woman_technologist:
 
-👩‍💻 I'm a junior at Columbia University studying CS
+I'm a junior at Columbia University studying CS
 
-🔭 I'm also a SWE @ Ball Aerospace working on a mission planning system for a future satellite, and I have experience developing various astronomy observation tools
+I'm also a SWE @ Ball Aerospace working on a mission planning system for a future satellite, and I have experience developing various astronomy observation tools
 
-💌 More recently, I have been exploring tech in the fashion industry, and I'm excited to learn more about the roles of computer vision and cloud computing in this field!
+More recently, I have been exploring tech in the fashion industry, and I'm excited to learn more about the roles of computer vision and cloud computing in this field!
+
+---
+
+#### Let's Connect!
+[<img align="left" alt="sarahtang | LinkedIn" width="30px" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-1024.png">][linkedin]
+[<img align="left" alt="sarahtang | Gmail" width="30px" src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/154/social-media_email_new-3-512.png">][gmail]
+[<img align="left" alt="sarahtang | WordPress" width="30px" src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/157/social-media_wordpress-512.png">][wordpress]
+
+[linkedin]: https://www.linkedin.com/in/sarahtang1/
+[gmail]: mailto:sarah.tang@columbia.edu
+[wordpress]: https://brainsproutblog.wordpress.com/
+
 
 <!--
 **sarahtang7/sarahtang7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
