@@ -1,10 +1,6 @@
 ### Nice to meet you! I'm Sarah :woman_technologist:
 
-I'm a junior at Columbia University studying CS
-
-I'm also a SWE @ Ball Aerospace working on a mission planning system for a future satellite, and I have experience developing various astronomy observation tools
-
-More recently, I have been exploring tech in the fashion industry, and I'm excited to learn more about the roles of computer vision and cloud computing in this field!
+I'm a senior at Columbia University studying CS
 
 ---
 
